@@ -22,6 +22,9 @@ This is important because the deivce cannot change it's note values once the cod
   - Exmaple in code: "analogRead(A0)/8; //Divide by 8 to get range of 0-127 for midi"
 ![](https://github.com/ImaginaryResources/Arduino-Midi-Box/blob/master/images/MidiNoteNumberChart.png)
 
+ Wiring Schematic
+![](https://github.com/ImaginaryResources/Arduino-Midi-Box/blob/master/images/MidiWiring.png)
+
 ## Images
 <img src="https://github.com/ImaginaryResources/Arduino-Midi-Box/blob/master/images/Prototype1.jpg" width="400"><img src="https://github.com/ImaginaryResources/Arduino-Midi-Box/blob/master/images/Prototype2.jpg" width="400"><img src="https://github.com/ImaginaryResources/Arduino-Midi-Box/blob/master/images/Prototype3.jpg" width="400"><img src="https://github.com/ImaginaryResources/Arduino-Midi-Box/blob/master/images/Final3.jpg" width="400"><img src="https://github.com/ImaginaryResources/Arduino-Midi-Box/blob/master/images/Final.jpg" width="400"><img src="https://github.com/ImaginaryResources/Arduino-Midi-Box/blob/master/images/Final2.jpg" width="400">
 
